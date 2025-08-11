@@ -1,0 +1,23 @@
+# Vehicle Registration Dashboard - Dependencies
+# Core dashboard framework
+streamlit>=1.39.0
+
+# Data processing and analysis
+pandas>=2.2.0
+numpy>=2.1.0
+
+# Visualization libraries
+plotly>=5.24.0
+matplotlib>=3.9.0
+seaborn>=0.13.0
+
+# Data collection and parsing
+requests>=2.32.0
+beautifulsoup4>=4.12.0
+lxml>=5.3.0
+
+# Data export
+openpyxl>=3.1.0
+
+# Utilities (automatically included with other packages)
+python-dateutil>=2.9.0
