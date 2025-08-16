@@ -69,14 +69,14 @@ The dashboard reveals key trends for automotive investors:
 ### One-Command Setup
 ```bash
 # Clone and launch (production-ready)
-git clone <repository-url> && cd freemoney && ./start_dashboard.sh
+git clone https://github.com/ayushsharma-1/Vehicle-Registration-Dashboard---BI && cd Vehicle-Registration-Dashboard---BI && ./start_dashboard.sh
 ```
 
 ### Manual Installation
 ```bash
 # 1. Clone repository
-git clone <repository-url>
-cd freemoney
+git clone https://github.com/ayushsharma-1/Vehicle-Registration-Dashboard---BI
+cd Vehicle-Registration-Dashboard---BI
 
 # 2. Create virtual environment (recommended)
 python3 -m venv .venv
@@ -228,7 +228,7 @@ Access the interactive dashboard at `http://localhost:8501` after running:
 
 **License**: MIT License - see [LICENSE](LICENSE) file for details
 
-**Author**: AI Assistant  
+**Author**: Ayush Sharma
 **Version**: 1.0.0  
 **Date**: August 11, 2025  
 **Status**: ✅ Production Ready
